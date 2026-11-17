@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: b0e5262ff838e224eb276cdb7fff5e67
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: level_2_zombie_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1049
+        width: 252
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c706aa91472f3b849acf5b0105303a96
+      internalID: 1059977325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_2_zombie_1
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1042
+        width: 240
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a481b6a15b9f0be4cae11fc60b479e11
+      internalID: 1500122571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_2_zombie_2
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1050
+        width: 253
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d44d3931afc90244aee194cae714baf
+      internalID: 675538500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_2_zombie_5
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1046
+        width: 249
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79935f54c280a5642b24b3afd9f2634d
+      internalID: -698912184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_2_zombie_19
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 723
+        width: 247
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9410741b08d8814593d2537d13994cc
+      internalID: 1369103872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_2_zombie_20
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 719
+        width: 266
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c759d422d9a1104aae979a5de1afd75
+      internalID: 309744254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_2_zombie_21
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 718
+        width: 382
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b2348af3c86a64d992edc786d781ed
+      internalID: 1739328581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_2_zombie_23
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 723
+        width: 242
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbaf9a4621339e548b4c2bf9cb67b0dc
+      internalID: 680564506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_2_zombie_34
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 404
+        width: 228
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cbafe44519c1b44bde5f71937eed13
+      internalID: -1183645806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_2_zombie_42
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 364
+        width: 225
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e6761ddf613414a99704a53c119b8e
+      internalID: 1415570823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_2_zombie_51
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 324
+        width: 285
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548812a886889fa4c90e376e324b82c1
+      internalID: -1185633770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_2_zombie_57
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 361
+        width: 319
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d493209c0c3dbbf4a90d97fb5fa4472a
+      internalID: -748263370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_2_zombie_71
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 108
+        width: 325
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19267fa42b358f54783cd51bbec3455b
+      internalID: 35669183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_2_zombie_74
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 71
+        width: 369
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162cb9626834fb2458da42d38bae292a
+      internalID: -71488934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      level_2_zombie_42: 1415570823
+      level_2_zombie_8: -288572809
+      level_2_zombie_18: -312236774
+      level_2_zombie_73: -1101426766
+      level_2_zombie_36: -1562586468
+      level_2_zombie_71: 35669183
+      level_2_zombie_59: -427417415
+      level_2_zombie_6: 768820801
+      level_2_zombie_40: -1412622507
+      level_2_zombie_54: 724501828
+      level_2_zombie_13: -941964774
+      level_2_zombie_38: 471489357
+      level_2_zombie_58: -430897007
+      level_2_zombie_74: -71488934
+      level_2_zombie_46: 1679333706
+      level_2_zombie_16: -1505096042
+      level_2_zombie_47: 531914432
+      level_2_zombie_4: -1239537300
+      level_2_zombie_72: -1227872133
+      level_2_zombie_43: 1522513401
+      level_2_zombie_1: 1500122571
+      level_2_zombie_56: -2100929555
+      level_2_zombie_57: -748263370
+      level_2_zombie_25: 706082037
+      level_2_zombie_21: 1739328581
+      level_2_zombie_9: 1018990106
+      level_2_zombie_22: -24134455
+      level_2_zombie_24: -1582681851
+      level_2_zombie_23: 680564506
+      level_2_zombie_2: 675538500
+      level_2_zombie_48: -2102030327
+      level_2_zombie_62: 1534484551
+      level_2_zombie_68: -1733290428
+      level_2_zombie_70: 515256331
+      level_2_zombie_0: 1059977325
+      level_2_zombie_66: -924845213
+      level_2_zombie_61: 1724042311
+      level_2_zombie_69: -683116780
+      level_2_zombie_20: 309744254
+      level_2_zombie_44: -1179869443
+      level_2_zombie_5: -698912184
+      level_2_zombie_30: 1711516362
+      level_2_zombie_26: 943181091
+      level_2_zombie_27: -231695478
+      level_2_zombie_3: 858393212
+      level_2_zombie_29: -1509437874
+      level_2_zombie_49: 1754776153
+      level_2_zombie_28: -564105815
+      level_2_zombie_39: 1896196845
+      level_2_zombie_45: -1501512529
+      level_2_zombie_35: -48176989
+      level_2_zombie_52: 126292443
+      level_2_zombie_33: -1016172476
+      level_2_zombie_55: -1677177299
+      level_2_zombie_60: 921524215
+      level_2_zombie_34: -1183645806
+      level_2_zombie_10: 410613225
+      level_2_zombie_19: 1369103872
+      level_2_zombie_31: -1683420109
+      level_2_zombie_50: 1760174422
+      level_2_zombie_67: 134836405
+      level_2_zombie_41: -650524454
+      level_2_zombie_37: 1228062376
+      level_2_zombie_17: -1932708718
+      level_2_zombie_32: 855952905
+      level_2_zombie_14: 138711021
+      level_2_zombie_12: -2120666552
+      level_2_zombie_51: -1185633770
+      level_2_zombie_15: -1179786091
+      level_2_zombie_7: -1014881650
+      level_2_zombie_64: -740103490
+      level_2_zombie_53: -1105388626
+      level_2_zombie_65: -2094434078
+      level_2_zombie_63: 2086697115
+      level_2_zombie_11: 265238744
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
