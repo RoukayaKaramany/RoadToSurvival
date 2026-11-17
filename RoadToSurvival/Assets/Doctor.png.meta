@@ -1,0 +1,306 @@
+fileFormatVersion: 2
+guid: ce55457f13e2d9c43b69db631aad139c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Doctor_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 606
+        width: 318
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c396ea34ec2cab44cb8f25958fba9649
+      internalID: 1516067286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_15
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 144
+        width: 217
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5835513a8873e47b99acf0490c2474
+      internalID: -1422315073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_17
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 144
+        width: 295
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb6969b756a11242a299105c2051de3
+      internalID: 734354817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_18
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 145
+        width: 243
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfe4f5e23984fe45896cdc2434283f8
+      internalID: -2055845098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_19
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 146
+        width: 204
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a945921aee4e25644b78acc0440d0341
+      internalID: -2144831204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctor_21
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 146
+        width: 205
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66387662f3d557b4a8b2d924988da1c4
+      internalID: -1597199646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Doctor_50: 676922252
+      Doctor_54: -2108114270
+      Doctor_55: 601606352
+      Doctor_11: -138649409
+      Doctor_27: 344643156
+      Doctor_43: 313199719
+      Doctor_31: -1989216651
+      Doctor_6: -1332912076
+      Doctor_19: -2144831204
+      Doctor_18: -2055845098
+      Doctor_44: 1549887940
+      Doctor_5: 1144843988
+      Doctor_39: -853701848
+      Doctor_52: 2091754084
+      Doctor_9: 1979162723
+      Doctor_24: -1344249040
+      Doctor_7: 1175741404
+      Doctor_28: 1905496785
+      Doctor_45: -693479017
+      Doctor_56: -1138273526
+      Doctor_21: -1597199646
+      Doctor_26: -1498881495
+      Doctor_29: 142896783
+      Doctor_51: -1497130923
+      Doctor_2: 484131966
+      Doctor_32: 292612334
+      Doctor_48: 1646389863
+      Doctor_40: 1562471217
+      Doctor_13: 216359356
+      Doctor_41: 573328147
+      Doctor_25: 1284333188
+      Doctor_3: -1826050892
+      Doctor_35: 2064367105
+      Doctor_42: 620850449
+      Doctor_53: 1105661508
+      Doctor_8: 187744153
+      Doctor_30: 548544119
+      Doctor_10: -211256109
+      Doctor_16: -1567190669
+      Doctor_22: 1671617810
+      Doctor_14: -495988897
+      Doctor_38: 742814064
+      Doctor_1: 1384255631
+      Doctor_47: 1545948132
+      Doctor_12: -636163836
+      Doctor_36: -224975250
+      Doctor_34: 1332101891
+      Doctor_17: 734354817
+      Doctor_4: 2100897840
+      Doctor_33: 1444463528
+      Doctor_37: -406798820
+      Doctor_0: 1516067286
+      Doctor_23: 498352237
+      Doctor_49: 51573180
+      Doctor_46: 315480042
+      Doctor_15: -1422315073
+      Doctor_20: 400245686
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

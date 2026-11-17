@@ -1,0 +1,293 @@
+fileFormatVersion: 2
+guid: 40d5878c503a2b844beb2796a29c0f48
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: maya_1
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1114
+        width: 278
+        height: 845
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bec7d3bf69d33c4cbcb344ebfe23de9
+      internalID: 1568768240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maya_24
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1208
+        width: 469
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd01006bbd315a447bbd70d883372169
+      internalID: -600137036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maya_27
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 1114
+        width: 283
+        height: 790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6faa9e834f35af14b83211cfa293d334
+      internalID: 448628831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maya_60
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 175
+        width: 301
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050aaaebc41d24444971e05e7caf6809
+      internalID: -884061153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maya_61
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 183
+        width: 269
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a42215e23cd8143ab5ca57c2f0b0ed
+      internalID: -626364381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      maya_50: 571597069
+      maya_56: -1301847174
+      maya_60: -884061153
+      maya_19: 1881482398
+      maya_54: 449150537
+      maya_31: 28597373
+      maya_33: -355720626
+      maya_34: -35332360
+      maya_2: 1365260090
+      maya_22: -1997874451
+      maya_30: -792878598
+      maya_6: 1705363675
+      maya_18: 94598850
+      maya_39: 1019486329
+      maya_8: 419269173
+      maya_12: 808060738
+      maya_48: -977959735
+      maya_47: 1273764973
+      maya_55: 1525171127
+      maya_49: -63032238
+      maya_61: -626364381
+      maya_58: 265089177
+      maya_38: 2050240914
+      maya_27: 448628831
+      maya_57: -1958821267
+      maya_35: 1735163727
+      maya_3: -142948404
+      maya_4: -370031203
+      maya_41: -190240160
+      maya_45: 1446431368
+      maya_63: 1579731986
+      maya_7: 418639415
+      maya_21: 2035960028
+      maya_44: -324416267
+      maya_28: 1292085137
+      maya_11: -840354269
+      maya_16: 845714580
+      maya_40: -891538095
+      maya_26: 714495596
+      maya_64: -855284609
+      maya_15: -591984977
+      maya_59: 47317316
+      maya_25: -1880336906
+      maya_52: 580812629
+      maya_32: -1750864317
+      maya_20: -491243668
+      maya_10: -544022934
+      maya_24: -600137036
+      maya_1: 1568768240
+      maya_5: -1933532279
+      maya_9: 1495862480
+      maya_53: 1192215142
+      maya_42: 1594071189
+      maya_13: 758597829
+      maya_23: 853702509
+      maya_62: -266876226
+      maya_46: 1896142602
+      maya_14: 17125209
+      maya_51: -387207607
+      maya_0: -519605985
+      maya_29: 1608854623
+      maya_37: -158112824
+      maya_17: 272697490
+      maya_36: 1625351911
+      maya_43: -113398834
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
