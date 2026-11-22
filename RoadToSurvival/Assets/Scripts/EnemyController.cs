@@ -2,52 +2,44 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-// Lab 6, Exercise #19: super class for all enemies.
-// Every enemy type (FollowerEnemy, walking enemy, ...) inherits these variables and functions.
 public class EnemyController : MonoBehaviour
 {
-    public float maxSpeed = 2; //how fast the enemy moves
-    public int damage = 1; //how much health the enemy takes from the player
-    public int health = 2; //how many hits from Atlas it takes to kill this enemy (Level 1 zombie = 2)
-    public SpriteRenderer sr;
+    public float maxSpeed = 2;
+    public int damage = 1;
+    public int health = 2;
+    public SpriteRenderer spriteRenderer;
 
-    //If true turn to false, if false turn to true
     public void Flip()
     {
-        sr.flipX = !sr.flipX;
+        spriteRenderer.flipX = !spriteRenderer.flipX;
     }
 
-    //called by Atlas's PlayerController when the bat hits this enemy
-    public void TakeDamage(int amount)
+    public void TakeDamage(int damageTaken)
     {
         ZombieController zombie = GetComponent<ZombieController>();
-        if (zombie != null && zombie.isDead)
+
+        if (zombie.isDead == true)
         {
-            return; //already dead
+            return;
         }
 
-        health = health - amount;
+        health = health - damageTaken;
         Debug.Log(gameObject.name + " health: " + health.ToString());
 
         if (health <= 0)
         {
             health = 0;
-            if (zombie != null)
-            {
-                zombie.isDead = true; //ZombieController plays the Death animation
-            }
+            zombie.isDead = true;
         }
         else
         {
-            StartCoroutine(HitFlash());
+            spriteRenderer.color = Color.red;
+            Invoke("StopRedFlash", 0.15f);
         }
     }
 
-    //flash red for a moment so the player can see the hit landed
-    IEnumerator HitFlash()
+    void StopRedFlash()
     {
-        sr.color = Color.red;
-        yield return new WaitForSeconds(0.15f);
-        sr.color = Color.white;
+        spriteRenderer.color = Color.white;
     }
 }
