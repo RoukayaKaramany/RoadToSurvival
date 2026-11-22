@@ -560,8 +560,9 @@ GameObject:
   - component: {fileID: 900000031}
   - component: {fileID: 900000032}
   - component: {fileID: 900000033}
+  - component: {fileID: 900000034}
   m_Layer: 0
-  m_Name: Maya
+  m_Name: Radio - Tech Store
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -575,8 +576,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 900000030}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 79.7084, y: -4.24, z: 0}
-  m_LocalScale: {x: 0.35, y: 0.35, z: 1}
+  m_LocalPosition: {x: 78, y: -3.49, z: 0}
+  m_LocalScale: {x: 0.401576, y: 0.29582, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -622,38 +623,56 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1999320107
   m_SortingLayer: 3
-  m_SortingOrder: -1
-  m_Sprite: {fileID: 1568768240, guid: 40d5878c503a2b844beb2796a29c0f48, type: 3}
+  m_SortingOrder: -2
+  m_Sprite: {fileID: 21300000, guid: c3d41b31cc9246eeb890134e49266cb1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 1
+  m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 2.78, y: 8.45}
+  m_Size: {x: 3.07, y: 7.34}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!95 &900000033
-Animator:
-  serializedVersion: 4
+--- !u!61 &900000033
+BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 900000030}
   m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 14089dc7ce044fe298a0ef529655472f, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 3.67}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0}
+    oldSize: {x: 3.07, y: 7.34}
+    newSize: {x: 3.07, y: 7.34}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 3.07, y: 7.34}
+  m_EdgeRadius: 0
+--- !u!114 &900000034
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 900000030}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f35f684af147493091987042866b84d9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &900000040
 GameObject:
   m_ObjectHideFlags: 0
