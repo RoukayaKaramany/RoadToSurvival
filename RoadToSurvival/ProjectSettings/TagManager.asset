@@ -8,11 +8,11 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - ground
   - Water
   - UI
-  - 
-  - 
+  - background
+  - zombie
   - 
   - 
   - 
@@ -40,4 +40,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 2174674501
+    locked: 0
+  - name: ground
+    uniqueID: 1283469163
+    locked: 0
+  - name: character
+    uniqueID: 1999320107
     locked: 0
